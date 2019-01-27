@@ -1,0 +1,21 @@
+{
+  "stations": [
+    {
+      "id": "23929d24-51ef-4e3b-9799-009695bd92d2",
+      "name": "5fm",
+      "frequency": "98.0 FM",
+      "image": "none",
+      "language": "English",
+      "geocoords": {
+        "lat": "-26.184611",
+        "long": " 27.9970848"
+      },
+      "url": "aHR0cDovL3Byb3JhZGlvY2xvdWQuYW50ZmFybS5jby56YS9hbnQtbHJlLXNhYmMvOWYzODEwMjYwOGIzNDVkY2I1M2MxZGIwYmQ1N2YyZDMvcGxheWxpc3QubTN1OA==",
+      "genres": [
+        "local",
+        "pop",
+        "alternative"
+      ]
+    }
+  ]
+}
