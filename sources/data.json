@@ -1,0 +1,533 @@
+{
+  "stations": [
+    {
+      "id": "23929d24-51ef-4e3b-9799-009695bd92d2",
+      "name": "NWZt",
+      "language": "English",
+      "geocoords": {
+        "lat": "-26.184611",
+        "long": "27.9970848"
+      },
+      "url": "aHR0cDovL3Byb3JhZGlvY2xvdWQuYW50ZmFybS5jby56YS9hbnQtbHJlLXNhYmMvOWYzODEwMjYwOGIzNDVkY2I1M2MxZGIwYmQ1N2YyZDMvcGxheWxpc3QubTN1OA==",
+      "genres": [
+        "local",
+        "pop",
+        "alternative"
+      ]
+    },
+    {
+      "id": "551d624a-a9c2-44e1-8784-faff394c02e5",
+      "name": "S0ZN",
+      "language": "english,afrikaans",
+      "geocoords": {
+        "lat": "-33.9125956",
+        "long": "18.4145174"
+      },
+      "url": "aHR0cDovLzE5OTkzLmxpdmUuc3RyZWFtdGhld29ybGQuY29tL0tGTV9TQw==",
+      "genres": [
+        "contemporary"
+      ]
+    },
+    {
+      "id": "255b3637-4247-4fda-9d84-71a6695ac40a",
+      "name": "U0FGTQ==",
+      "language": "English",
+      "geocoords": {
+        "lat": "-26.184611",
+        "long": "27.9970848"
+      },
+      "url": "aHR0cDovL3Byb3JhZGlvY2xvdWQuYW50ZmFybS5jby56YS9hbnQtbHJlLXNhYmMvNjIwZTAxMjU4ZjViNDk1Njg1NDZmZjIzOWZmMmEzMmYvcGxheWxpc3QubTN1OA==",
+      "genres": [
+        "local",
+        "classical"
+      ]
+    },
+    {
+      "id": "ccd4c763-1fed-4d83-a8d5-249364cd574a",
+      "name": "R29vZEhvcGUgRk0=",
+      "language": "English",
+      "geocoords": {
+        "lat": "-33.9093914",
+        "long": "18.3908794"
+      },
+      "url": "aHR0cDovL3Byb3JhZGlvY2xvdWQuYW50ZmFybS5jby56YS9hbnQtbHJlLXNhYmMvMWU2MGZmNDAyOGZlNDE2NGEzZTQzMDcxZGE5ZmI4NmYvcGxheWxpc3QubTN1OA==",
+      "genres": [
+        "local",
+        "contemporary"
+      ]
+    },
+    {
+      "id": "ae374219-8314-4951-92de-6c017c54bd5d",
+      "name": "SGlnaHZlbGQgU3RlcmVv",
+      "language": "English",
+      "geocoords": {
+        "lat": "-26.0990624",
+        "long": "28.0544401"
+      },
+      "url": "aHR0cDovLzE4OTczLmxpdmUuc3RyZWFtdGhld29ybGQuY29tOjM2OTAvRk05NDdfU0M=",
+      "genres": [
+        "local",
+        "contemporary"
+      ]
+    },
+    {
+      "id": "88bb1d3c-188c-4b5c-ad9c-e6f4b7d4d8f2",
+      "name": "SGVhcnQgRk0=",
+      "language": "english",
+      "geocoords": {
+        "lat": "-33.913812",
+        "long": "18.41717"
+      },
+      "url": "aHR0cDovL2FsYmVydC5hbnRmYXJtLmNvLnphL2hlYXJ0Zm0vaGVhcnRmbS5zdHJlYW0vcGxheWxpc3QubTN1OA==",
+      "genres": [
+        "mixed"
+      ]
+    },
+    {
+      "id": "8faf6347-9838-4734-ae1e-81fb3536ad91",
+      "name": "Q2FwZVRhbGs=",
+      "language": "English",
+      "geocoords": {
+        "lat": "-33.912727",
+        "long": "18.416519"
+      },
+      "url": "aHR0cDovLzIwMDczLmxpdmUuc3RyZWFtdGhld29ybGQuY29tOjM2OTAvQ0FQRV9UQUxLX1ND",
+      "genres": [
+        "local",
+        "talk"
+      ]
+    },
+    {
+      "id": "0553bdd4-3c43-4f25-9283-2bbf8691ed96",
+      "name": "U21pbGUgOTAuNCBGTQ==",
+      "language": "English",
+      "geocoords": {
+        "lat": "-33.913812",
+        "long": "18.41717"
+      },
+      "url": "aHR0cDovL3N0cmVhbWluZy5mYWJyaWsuZm0vc21pbGUvZWNob2Nhc3QvYXVkaW8vaW5kZXgubTN1OA==",
+      "genres": [
+        "local",
+        "talk"
+      ]
+    },
+    {
+      "id": "2bdaf1f5-6696-4422-a43e-cb5d1ef60a18",
+      "name": "RmluZSBNdXNpYyBSYWRpbw==",
+      "language": "English",
+      "geocoords": {
+        "lat": "33.9199949",
+        "long": "18.4283157"
+      },
+      "url": "aHR0cDovL2VkZ2UuaW9uby5mbS94aWNlL2Ztcl9saXZlX21lZGl1bS5tcDM=",
+      "genres": [
+        "local",
+        "talk"
+      ]
+    },
+    {
+      "id": "b91d6cb0-bd9e-47f2-8f7d-dfbd21211126",
+      "name": "NzAyIFRhbGsgUmFkaW8=",
+      "language": "English",
+      "geocoords": {
+        "lat": "-26.0990624",
+        "long": "28.0544401"
+      },
+      "url": "aHR0cDovLzE3ODczLmxpdmUuc3RyZWFtdGhld29ybGQuY29tOjM2OTAvRk03MDJfU0M=",
+      "genres": [
+        "local",
+        "talk"
+      ]
+    },
+    {
+      "id": "20b9fa91-0094-454c-8942-14ffcc7b9385",
+      "name": "QWxnb2EgRk0=",
+      "language": "english",
+      "geocoords": {
+        "lat": "-33.9838553",
+        "long": "25.659354"
+      },
+      "url": "aHR0cHM6Ly9lZGdlLmlvbm8uZm0veGljZS81NF9tZWRpdW0uYWFj",
+      "genres": [
+        "contemporary"
+      ]
+    },
+    {
+      "id": "354fc38d-7d06-4e74-89c7-21831c88cb68",
+      "name": "Q2xhc3NpYyBGTQ==",
+      "language": "english",
+      "geocoords": {
+        "lat": "-26.1324001",
+        "long": "28.0642653"
+      },
+      "url": "aHR0cHM6Ly9lZGdlLmlvbm8uZm0veGljZS80OV9tZWRpdW0uYWFj",
+      "genres": [
+        "classic"
+      ]
+    },
+    {
+      "id": "1116a411-91f0-445d-98ac-8cfe249cc653",
+      "name": "TWV0cm8gRk0=",
+      "language": "english",
+      "geocoords": {
+        "lat": "-26.184611",
+        "long": "27.9970848"
+      },
+      "url": "aHR0cDovL3Byb3JhZGlvY2xvdWQuYW50ZmFybS5jby56YS9hbnQtbHJlLXNhYmMvMzBhY2QyMzU4YmM2NGJlNDlkNTYzYjcyZjBkMWQxMjEvcGxheWxpc3QubTN1OA==",
+      "genres": [
+        "urban"
+      ]
+    },
+    {
+      "id": "93c5adb1-c3cf-4dad-b708-2adde15775f1",
+      "name": "UmFkaW8gMjAwMA==",
+      "language": "english",
+      "geocoords": {
+        "lat": "-26.184611",
+        "long": "27.9970848"
+      },
+      "url": "aHR0cDovL3Byb3JhZGlvY2xvdWQuYW50ZmFybS5jby56YS9hbnQtbHJlLXNhYmMvYTNkMWU5MzhjZjljNDlkYjg3NDkwNmE4MTM4ZWNmMTAvcGxheWxpc3QubTN1OA==",
+      "genres": [
+        "contemporary"
+      ]
+    },
+    {
+      "id": "4203ef1b-637d-4132-9243-c3dabca75709",
+      "name": "UmFkaW8gUHVscGl0",
+      "language": "english,afrikaans",
+      "geocoords": {
+        "lat": "-25.7191737",
+        "long": "28.2578983"
+      },
+      "url": "aHR0cDovL2luZmFudC5hbnRmYXJtLmNvLnphL3JhZGlvcHVscGl0L2xpc3Rlbi5wbHM=",
+      "genres": [
+        "christian"
+      ]
+    },
+    {
+      "id": "6062a428-c194-4444-897e-47f942f934b4",
+      "name": "UlNH",
+      "language": "afrikaans",
+      "geocoords": {
+        "lat": "-26.184611",
+        "long": "27.9970848"
+      },
+      "url": "aHR0cDovL3Byb3JhZGlvY2xvdWQuYW50ZmFybS5jby56YS9hbnQtbHJlLXNhYmMvYjA4ZWEwMDc4NTc3NDAzMThlYTAzNGYwYjQxNTA0YTcvY2h1bmtsaXN0X3cxMTAzODY2MzAwLm0zdTg=",
+      "genres": [
+        "afrikaans"
+      ]
+    },
+    {
+      "id": "d84f0f3d-db51-4529-9472-884b7520dbce",
+      "name": "SmFjYXJhbmRhIEZN",
+      "language": "english,afrikaans",
+      "geocoords": {
+        "lat": "-25.972811",
+        "long": "28.1221223"
+      },
+      "url": "aHR0cHM6Ly9lZGdlLmlvbm8uZm0veGljZS9qYWNhcmFuZGFmbV9saXZlX21lZGl1bS5hYWM=",
+      "genres": [
+        "mixed"
+      ]
+    },
+    {
+      "id": "f8a8bceb-b40d-4bdb-99fc-bcd9028791c1",
+      "name": "RWFzdCBDb2FzdCBSYWRpbw==",
+      "language": "english",
+      "geocoords": {
+        "lat": "29.729939",
+        "long": "31.06565"
+      },
+      "url": "aHR0cHM6Ly9lZGdlLmlvbm8uZm0veGljZS9lY3JfbGl2ZV9tZWRpdW0uYWFjP3A9ZW1iZWQ=",
+      "genres": [
+        "contemporary"
+      ]
+    },
+    {
+      "id": "2d489797-0863-4e5c-9f74-6502a87de896",
+      "name": "Q2xpZmYgQ2VudHJhbA==",
+      "language": "english",
+      "geocoords": {
+        "lat": "0",
+        "long": "0"
+      },
+      "url": "aHR0cHM6Ly9lZGdlLmlvbm8uZm0veGljZS9jbGlmZmNlbnRyYWxfbGl2ZV9tZWRpdW0uYWFjP3A9ZW1iZWQ=",
+      "genres": [
+        "contemporary"
+      ]
+    },
+    {
+      "id": "101b92b5-03cf-4d0a-95fe-5c470bf00acd",
+      "name": "Q0NGTQ==",
+      "language": "english,afrikaans",
+      "geocoords": {
+        "lat": "34.1086763",
+        "long": "18.4654528"
+      },
+      "url": "aHR0cDovL3phczIubmR4LmNvLnphL3Byb3h5L2NjZm0/bXA9L3N0cmVhbSYxNTMzMzkxMjM4NDYz",
+      "genres": [
+        "christian"
+      ]
+    },
+    {
+      "id": "71fbdceb-8e8d-4d1f-9017-97a1be3ce605",
+      "name": "QnVzaCBSYWRpbw==",
+      "language": null,
+      "geocoords": {
+        "lat": "-33.9231082",
+        "long": "18.4115374"
+      },
+      "url": "aHR0cDovL3phczQubmR4LmNvLnphL3Byb3h5L2J1c2hyYWRpbz9tcD0vc3RyZWFt",
+      "genres": [
+        "contemporary"
+      ]
+    },
+    {
+      "id": "6209cf28-275a-41f3-bc2a-c77930a8da18",
+      "name": "VUNUIFJhZGlv",
+      "language": "english",
+      "geocoords": {
+        "lat": "-33.957652",
+        "long": "18.4590104"
+      },
+      "url": "aHR0cHM6Ly9lZGdlLmlvbm8uZm0veGljZS91Y3RyYWRpb19saXZlX21lZGl1bS5hYWM/cD1lbWJlZA==",
+      "genres": [
+        "contemporary"
+      ]
+    },
+    {
+      "id": "e3711be5-482d-443e-a1a9-fae073003f21",
+      "name": "TGlmZXRpbWUgTXVzaWM=",
+      "language": "english,french",
+      "geocoords": {
+        "lat": "26.0558177",
+        "long": "28.0599807"
+      },
+      "url": "aHR0cDovLzUwLjcuOTkuMTU1OjEyMDU1L3N0cmVhbQ==",
+      "genres": [
+        "contemporary"
+      ]
+    },
+    {
+      "id": "f6367a10-3aa8-40da-855c-72fdd7bca4a9",
+      "name": "SG90IDkxLjk=",
+      "language": "english",
+      "geocoords": {
+        "lat": "-26.0465104",
+        "long": "27.9502119"
+      },
+      "url": "aHR0cHM6Ly9lZGdlLmlvbm8uZm0veGljZS81N19tZWRpdW0uYWFjP3A9ZW1iZWQ=",
+      "genres": [
+        "contemporary"
+      ]
+    },
+    {
+      "id": "e198d2c4-3d93-4301-a165-035779e21fe1",
+      "name": "QWxsIEphenogUmFkaW8=",
+      "language": null,
+      "geocoords": {
+        "lat": "-33.9198562",
+        "long": "18.428233"
+      },
+      "url": "aHR0cDovL3phczMubmR4LmNvLnphL3Byb3h5L2FsbGphenpyYWRpbz9tcD0vc3RyZWFtJjE1Mzg1OTM1NTkwMTU=",
+      "genres": [
+        "jazz"
+      ]
+    },
+    {
+      "id": "1b47844c-916a-4fcc-a55b-5b07295304c6",
+      "name": "S2F5YSBGTQ==",
+      "language": null,
+      "geocoords": {
+        "lat": "-26.1888903",
+        "long": "27.9894772"
+      },
+      "url": "aHR0cDovL2ljZWFudC5hbnRmYXJtLmNvLnphOjgwMDAvS2F5YV9NUDMubXAz",
+      "genres": [
+        "contemporary"
+      ]
+    },
+    {
+      "id": "629b3d6d-676e-4d09-8bdb-f2d34161748f",
+      "name": "UHJldG9yaWEgRk0=",
+      "language": "afrikaans",
+      "geocoords": {
+        "lat": "-25.7456491",
+        "long": "28.2918963"
+      },
+      "url": "aHR0cDovL2NhcGVhbnQuYW50ZmFybS5jby56YTo4MDAwL3B0YWZt",
+      "genres": [
+        ""
+      ]
+    },
+    {
+      "id": "7465e732-9296-4a2b-baf2-e6a51f39719f",
+      "name": "T0ZN",
+      "language": null,
+      "geocoords": {
+        "lat": "27.8949157",
+        "long": "24.4094104"
+      },
+      "url": "aHR0cDovL2VkZ2UuaW9uby5mbS94aWNlL29mbV9saXZlX21lZGl1bS5tcDM=",
+      "genres": [
+        ""
+      ]
+    },
+    {
+      "id": "3927555a-4d0e-48a3-a893-ba4bf27d42c7",
+      "name": "SGFzaCBUYWcgUmFkaW8=",
+      "language": null,
+      "geocoords": {
+        "lat": "-33.9258112",
+        "long": "18.4249314"
+      },
+      "url": "aHR0cDovLzkxLjEyMS4xNjQuMjEwOjgxODgvc3RyZWFtLm1wMz92ZXI9NDcxODA2",
+      "genres": [
+        ""
+      ]
+    },
+    {
+      "id": "399898ae-6928-476c-b3a7-e6232aa463f6",
+      "name": "TWl4IDkzLjg=",
+      "language": "english",
+      "geocoords": {
+        "lat": "-25.9767532",
+        "long": "28.1310093"
+      },
+      "url": "aHR0cDovLzUwLjcuNzcuMTE0OjgwMDcvOw==",
+      "genres": [
+        "contemporary"
+      ]
+    },
+    {
+      "id": "2f104784-eb55-483e-b33f-fac70fe06602",
+      "name": "TG90dXMgUmFkaW8=",
+      "language": null,
+      "geocoords": {
+        "lat": "-29.8548933",
+        "long": "30.6582237"
+      },
+      "url": "aHR0cDovL3Byb3JhZGlvY2xvdWQuYW50ZmFybS5jby56YS9hbnQtbHJlLXNhYmMvOWQxYzcwMTlmZjg5NGU1MTkxYjk1NGVmZjAzZDdjNzcvcGxheWxpc3QubTN1OA==",
+      "genres": [
+        ""
+      ]
+    },
+    {
+      "id": "68f11811-daa9-483a-a72a-de9c2df05166",
+      "name": "R3Jvb3QgRk0=",
+      "language": "afrikaans",
+      "geocoords": {
+        "lat": "-25.7647457",
+        "long": "28.2766245"
+      },
+      "url": "aHR0cDovLzc2LjE2NC4yMTcuMTAwOjcwMDkvc3RyZWFtPzE1NDgxMDAwMzY2NTk=",
+      "genres": [
+        "religous"
+      ]
+    },
+    {
+      "id": "a5e01a8c-63b7-4cbb-8276-8c8bdfde6307",
+      "name": "VHlnZXJiZXJnIEZN",
+      "language": "afrikaans",
+      "geocoords": {
+        "lat": "-33.9041364",
+        "long": "18.5873826"
+      },
+      "url": "aHR0cDovL3JhZGlvdHlnZXJiZXJnLmhpZ2hxdWFsaXR5LnJhZGlvc3RyZWFtLmNvLnphLw==",
+      "genres": [
+        "religeous"
+      ]
+    },
+    {
+      "id": "dfaefb41-2f4a-415a-9bfd-e8ec2db595fc",
+      "name": "VWtob3ppIEZN",
+      "language": "zulu",
+      "geocoords": {
+        "lat": "-29.8986791",
+        "long": "30.9389303"
+      },
+      "url": "aHR0cDovL3Byb3JhZGlvY2xvdWQuYW50ZmFybS5jby56YS9hbnQtbHJlLXNhYmMvYzA0ZTgwYTkwMTExNDc3YTg4ODY3YjY5N2UyMjAzYzAvcGxheWxpc3QubTN1OA==",
+      "genres": [
+        "contemporary"
+      ]
+    },
+    {
+      "id": "021d7a2a-f1df-4ac8-b644-c3f2dc5c4cab",
+      "name": "VGhvYmVsYSBGTQ==",
+      "language": "sotho",
+      "geocoords": {
+        "lat": "-23.8939299",
+        "long": "29.4574313 "
+      },
+      "url": "aHR0cDovL3Byb3JhZGlvY2xvdWQuYW50ZmFybS5jby56YS9hbnQtbHJlLXNhYmMvNTgwMjRmNzU5ZWYzNDNlNWI0M2Y5OWIwYzU1ZDg0YWEvcGxheWxpc3QubTN1OD9zaWQ9YTIzNDY3MDEtNDZiYy00MGFhLWJjMzItOGFhYzBkMmZjZjIy",
+      "genres": [
+        "contemporary"
+      ]
+    },
+    {
+      "id": "eff5e931-d35e-4ea9-bcbb-f9a1c308da25",
+      "name": "TWFnaWMgRk0=",
+      "language": "English",
+      "geocoords": {
+        "lat": "-33.946721",
+        "long": " 18.486632"
+      },
+      "url": "aHR0cDovL3phczQubmR4LmNvLnphL3Byb3h5L21hZ2ljODI4P21wPS9zdHJlYW0=",
+      "genres": [
+        "contemporary"
+      ]
+    },
+    {
+      "id": "17f8e363-3ad3-4da8-ab65-610f4660acf7",
+      "name": "Qm9rIFJhZGlv",
+      "language": "Afrikaans",
+      "geocoords": {
+        "lat": "-33.8784447",
+        "long": "18.6769241"
+      },
+      "url": "aHR0cDovL2Jva3JhZGlvLmhpZ2hxdWFsaXR5LnJhZGlvc3RyZWFtLmNvLnphLw==",
+      "genres": [
+        "Contemporary"
+      ]
+    },
+    {
+      "id": "9a712095-45e6-4fc4-a196-5c9c463aa8c5",
+      "name": "SW1wYWN0IFJhZGlv",
+      "language": "English",
+      "geocoords": {
+        "lat": "-25.7949256",
+        "long": "28.2743598"
+      },
+      "url": "aHR0cDovL3phczEubmR4LmNvLnphL3Byb3h5L2ltcGFjdHJhZGlvP21wPS9zdHJlYW0=",
+      "genres": [
+        "Christian"
+      ]
+    },
+    {
+      "id": "2e649ae1-a87f-4893-a39c-e0878cd1aef1",
+      "name": "TGVra2VyIEZN",
+      "language": "Afrikaans",
+      "geocoords": {
+        "lat": "-25.8453812",
+        "long": "28.1888253"
+      },
+      "url": "aHR0cDovL2Nkbi1yb3V0ZS5jb3JlMjUtMjQ5LTExNi5uZHN0cmVhbS5uZXQ6NDQzLztsaXN0ZW4ubXAz",
+      "genres": [
+        "contemporary"
+      ]
+    },
+    {
+      "id": "51b0c303-47d1-4553-b198-fff297c56f49",
+      "name": "THVpc3RlciBGTQ==",
+      "language": "Afrikaans",
+      "geocoords": {
+        "lat": "-33.9428403",
+        "long": "25.5682711"
+      },
+      "url": "aHR0cDovL3d3dy5hZGhvY3N0cmVhbWluZy5jby56YTo4MDAwL0x1aXN0ZXJGTQ==",
+      "genres": [
+        "contemporary"
+      ]
+    }
+  ]
+}
