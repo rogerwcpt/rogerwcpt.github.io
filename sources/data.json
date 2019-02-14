@@ -283,19 +283,6 @@
       ]
     },
     {
-      "id": "6209cf28-275a-41f3-bc2a-c77930a8da18",
-      "name": "VUNUIFJhZGlv",
-      "language": "english",
-      "geocoords": {
-        "lat": "-33.957652",
-        "long": "18.4590104"
-      },
-      "url": "aHR0cHM6Ly9lZGdlLmlvbm8uZm0veGljZS91Y3RyYWRpb19saXZlX21lZGl1bS5hYWM/cD1lbWJlZA==",
-      "genres": [
-        "contemporary"
-      ]
-    },
-    {
       "id": "e3711be5-482d-443e-a1a9-fae073003f21",
       "name": "TGlmZXRpbWUgTXVzaWM=",
       "language": "english,french",
@@ -381,7 +368,7 @@
         "lat": "-33.9258112",
         "long": "18.4249314"
       },
-      "url": "aHR0cDovLzkxLjEyMS4xNjQuMjEwOjgxODgvc3RyZWFtLm1wMz92ZXI9NDcxODA2",
+      "url": "aHR0cDovLzE4OC4xNjUuMjQwLjkwOjkxNjIvc3RyZWFtLm1wMz92ZXI9NjIxMTIy",
       "genres": [
         ""
       ]
@@ -470,7 +457,7 @@
       "language": "English",
       "geocoords": {
         "lat": "-33.946721",
-        "long": " 18.486632"
+        "long": "18.486632"
       },
       "url": "aHR0cDovL3phczQubmR4LmNvLnphL3Byb3h5L21hZ2ljODI4P21wPS9zdHJlYW0=",
       "genres": [
