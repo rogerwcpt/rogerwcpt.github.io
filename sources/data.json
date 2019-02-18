@@ -528,6 +528,19 @@
       "genres": [
         "contemporary"
       ]
+    },
+    {
+      "id": "b210bb23-eb2c-45e1-83c9-99dc99769d7f",
+      "name": "UG93ZXIgRk0=",
+      "language": "English",
+      "geocoords": {
+        "lat": "-26.15539",
+        "long": "28.0556463"
+      },
+      "url": "aHR0cHM6Ly9lZGdlLmlvbm8uZm0veGljZS82NV9tZWRpdW0uYWFjP3A9ZW1iZWQ=",
+      "genres": [
+        "contemporary"
+      ]
     }
   ]
 }
