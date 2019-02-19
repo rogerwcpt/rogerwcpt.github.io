@@ -91,7 +91,7 @@
         "lat": "-33.912727",
         "long": "18.416519"
       },
-      "url": "aHR0cDovLzIwMDczLmxpdmUuc3RyZWFtdGhld29ybGQuY29tOjM2OTAvQ0FQRV9UQUxLX1ND",
+      "url": "aHR0cDovLzE5NTEzLmxpdmUuc3RyZWFtdGhld29ybGQuY29tL0NBUEVfVEFMS19TQw==",
       "genres": [
         "local",
         "talk"
@@ -540,6 +540,19 @@
       "url": "aHR0cHM6Ly9lZGdlLmlvbm8uZm0veGljZS82NV9tZWRpdW0uYWFjP3A9ZW1iZWQ=",
       "genres": [
         "contemporary"
+      ]
+    },
+    {
+      "id": "59601591-12bd-4fe6-a850-beb786b6578e",
+      "name": "Sm91UmFkaW8=",
+      "language": "Afrikaans",
+      "geocoords": {
+        "lat": "-23.8837481",
+        "long": "29.5016878"
+      },
+      "url": "aHR0cHM6Ly9ldTkuZmFzdGNhc3Q0dS5jb20vcHJveHkvbG1zZnZmY2Y/bXA9LzE=",
+      "genres": [
+        ""
       ]
     }
   ]
