@@ -619,6 +619,19 @@
       "genres": [
         ""
       ]
+    },
+    {
+      "id": "ebd2e71a-aa3c-4970-8858-7c9bcfa2dd68",
+      "name": "WUZN",
+      "language": "English",
+      "geocoords": {
+        "lat": "-26.1268295",
+        "long": "28.0292762"
+      },
+      "url": "aHR0cDovL3N0cmVhbWluZy5mYWJyaWsuZm0veWZtL2VjaG9jYXN0L2F1ZGlvL2luZGV4Lm0zdTg=",
+      "genres": [
+        ""
+      ]
     }
   ]
 }
