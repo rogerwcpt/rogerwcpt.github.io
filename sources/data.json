@@ -879,6 +879,19 @@
       "genres": [
         "religious"
       ]
+    },
+    {
+      "id": "c186be72-9b41-48c1-b1d1-8e387e429b85",
+      "name": "S29zbW9zIDk0LjE=",
+      "language": null,
+      "geocoords": {
+        "lat": "-22.5830266",
+        "long": "17.0937623"
+      },
+      "url": "aHR0cHM6Ly9lZGdlLmlvbm8uZm0veGljZS84OF9tZWRpdW0ubXAz",
+      "genres": [
+        ""
+      ]
     }
   ]
 }
