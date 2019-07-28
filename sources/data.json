@@ -866,6 +866,19 @@
       "genres": [
         ""
       ]
+    },
+    {
+      "id": "8897b5b0-ade1-41ea-b540-1ad87d6feaeb",
+      "name": "S2FuYWFsIDc=",
+      "language": "afrikaans",
+      "geocoords": {
+        "lat": "-22.5590933",
+        "long": "17.0601239"
+      },
+      "url": "aHR0cDovLzg1LjI1LjE2NC41Mi87",
+      "genres": [
+        "religious"
+      ]
     }
   ]
 }
