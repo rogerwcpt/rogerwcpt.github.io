@@ -1048,6 +1048,19 @@
       "genres": [
         ""
       ]
+    },
+    {
+      "id": "d6066bba-0840-40e1-80bb-489d964ff7aa",
+      "name": "TGlnd2FsYWd3YWxhRk0=",
+      "language": null,
+      "geocoords": {
+        "lat": "-25.4699758",
+        "long": "30.9690223"
+      },
+      "url": "aHR0cDovL2NvbG9ueWEuYW50ZmFybS5jby56YS9hbnQtbHJlLXNhYmMvNTY4ZmM1NzM4Y2NlNDQzNGFhNmRiNjllOTI4MDg0YmUvcGxheWxpc3QubTN1OA==",
+      "genres": [
+        ""
+      ]
     }
   ]
 }
