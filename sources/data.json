@@ -1022,6 +1022,19 @@
       "genres": [
         ""
       ]
+    },
+    {
+      "id": "bccecb6b-7df3-4e21-a33f-113246e47683",
+      "name": "UmFkaW8gRnJlZSBUYW5rd2E=",
+      "language": null,
+      "geocoords": {
+        "lat": "-32.2410219",
+        "long": "20.0933253"
+      },
+      "url": "aHR0cHM6Ly9hbnRvbi5hbnRmYXJtLmNvLnphL3Rhbmt3YXJhZGlvL3Rhbmt3YXJhZGlvLnN0cmVhbS9wbGF5bGlzdC5tM3U4",
+      "genres": [
+        "Mixed Genres"
+      ]
     }
   ]
 }
