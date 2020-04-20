@@ -1100,6 +1100,19 @@
       "genres": [
         ""
       ]
+    },
+    {
+      "id": "ceedfa09-d42c-41d1-a4a4-aa16c98b1cda",
+      "name": "Ck92ZXJ2YWFsIFN0ZXJlbyA5Ni4xCgpPdmVydmFhbCBTdGVyZW8gOTYuMQpPdmVydmFhbCBTdGVyZW8gOTYuMQ==",
+      "language": null,
+      "geocoords": {
+        "lat": "-27.204711",
+        "long": "26.9482323"
+      },
+      "url": "aHR0cDovL292ZXJ2YWFsLnNlcnZlcnJvb20udXM6NTgwNi87P3R5cGU9aHR0cA==",
+      "genres": [
+        ""
+      ]
     }
   ]
 }
