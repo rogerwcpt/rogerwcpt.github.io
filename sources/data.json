@@ -1103,11 +1103,11 @@
     },
     {
       "id": "ceedfa09-d42c-41d1-a4a4-aa16c98b1cda",
-      "name": "Ck92ZXJ2YWFsIFN0ZXJlbyA5Ni4xCgpPdmVydmFhbCBTdGVyZW8gOTYuMQpPdmVydmFhbCBTdGVyZW8gOTYuMQ==",
+      "name": "T3ZlcnZhYWwgU3RlcmVvIDk2LjE=",
       "language": null,
       "geocoords": {
         "lat": "-27.204711",
-        "long": "26.9482323"
+        "long": "   26.9482323"
       },
       "url": "aHR0cDovL292ZXJ2YWFsLnNlcnZlcnJvb20udXM6NTgwNi87P3R5cGU9aHR0cA==",
       "genres": [
@@ -1123,6 +1123,19 @@
         "long": "19.1818228"
       },
       "url": "aHR0cDovLzEwMi4xNjUuMTIxLjk1Ojg4L2Jyb2Fkd2F2ZS5tcDM/c3JjPTEmcmF0ZT0xJnJlZj0x",
+      "genres": [
+        ""
+      ]
+    },
+    {
+      "id": "e3f879ed-0a05-4996-868c-3da5b49e105e",
+      "name": "UmFkaW8gVmVyaXRhcw==",
+      "language": null,
+      "geocoords": {
+        "lat": "-26.13944",
+        "long": "28.1486314"
+      },
+      "url": "aHR0cDovL3phczUubmR4LmNvLnphOjk2MTgvOz8xNTg3NDg2MDE1MjMw",
       "genres": [
         ""
       ]
